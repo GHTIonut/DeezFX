@@ -1,0 +1,13 @@
+.myNavbar {
+  background-color: rgb(34, 67, 139);
+}
+
+.myNavbar img {
+  width: 190px;
+  height: auto;
+  display: block;
+}
+
+.myNavbar input {
+  height: 2.4rem;
+}
